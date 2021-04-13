@@ -1,0 +1,29 @@
+<channel>
+<channels>
+<nome> [B] [COR verde] //// [/ COLOR] [COR branco] CLS [/ COLOR] | [COR blue] FILMES [/ COLOR] [/ B] [COR verde] //// [/ COLOR] </name>
+<thumbnail>AQUI VC COLOCA O LINK DA IMAGEM PARA O MENU FILMES</thumbnail>
+<externallink>https://raw.githubusercontent.com/cslbrnovo/lista1F/main/F</externallink>
+<fanart> AQUI VC COLOCA O LINK DA IMAGEM DE FUNDO DO MENU FILMES </fanart>
+<info> 
+</channel>
+</channels>
+
+<channel>
+<channels>
+<nome> [B] [COR verde] //// [/ COLOR] [COR branco] CLS [/ COLOR] | [COR blue] SERIES [/ COLOR] [/ B] [COR verde] //// [/ COLOR] </name>
+<thumbnail> AQUI VC COLOCA O LINK DA IMAGEM PARA O MENU SERIES </thumbnail>
+<externallink> https://raw.githubusercontent.com/cslbrnovo/lista1F/main/S </externallink>
+<fanart> AQUI VC COLOCA O LINK DA IMAGEM DE FUNDO DO MENU FILMES </fanart>
+<info> 
+</channel>
+</channels>
+
+
+
+
+
+
+
+
+
+
