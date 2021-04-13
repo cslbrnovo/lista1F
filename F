@@ -1,0 +1,55 @@
+
+SE FOR USAR ARQUIVO TORRENT:
+
+<item>
+		<title>AQUI VC COLOCA O NOME DO FILME OU SERIE</title>
+		<thumbnail>AQUI VC COLOCA O LINK DA IMAGEM DE CAPA DO FILME</thumbnail>
+		<fanart>AQUI VC COLOCA O LINK DA IMAGEM DE FUNDO DO FILME</fanart>
+		<link>plugin://plugin.video.elementum/play?uri=AQUI VC COLOCA O LINK TORRENT DO FILME</link>
+		<info>AQUI VC COLOCA A DECRIÇÃO DO FILME SE QUISER</info>
+	</item>
+  
+  ##################################################################################################################################################################
+  
+  SE FOR USAR LINK DO YOUTUBE:
+  
+  <item>
+		<title>AQUI VC COLOCA O NOME DO FILME OU SERIE OU DESENHO</title>
+		<thumbnail>AQUI VC COLOCA O LINK DA IMAGEM DE CAPA DO FILME</thumbnail>
+		<fanart>AQUI VC COLOCA O LINK DA IMAGEM DE FUNDO DO FILME</fanart>
+		<link>plugin://plugin.video.youtube/play/?video_id=AQUI VC COLOCA O LINK DO VIDEO DO YOUTUBE</link>
+		<info>AQUI VC COLOCA A DECRIÇÃO DO FILME SE QUISER</info>
+	</item>
+
+  ################################################################################################################################################
+  
+  SE FOR USAR LINK DIRETO:
+  <item>
+		<title>AQUI VC COLOCA O NOME DO FILME OU SERIE OU DESENHO</title>
+		<thumbnail>AQUI VC COLOCA O LINK DA IMAGEM DE CAPA DO FILME</thumbnail>
+		<fanart>AQUI VC COLOCA O LINK DA IMAGEM DE FUNDO DO FILME</fanart>
+		<link>AQUI VC COLOCA O LINK DO FILME, OU SERIE, ETC</link>
+		<info>AQUI VC COLOCA A DECRIÇÃO DO FILME SE QUISER</info>
+	</item>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
