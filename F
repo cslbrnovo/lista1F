@@ -25,10 +25,11 @@ SE FOR USAR ARQUIVO TORRENT:
   
   SE FOR USAR LINK DIRETO:
   <item>
-		<title>AQUI VC COLOCA O NOME DO FILME OU SERIE OU DESENHO</title>
-		<thumbnail>AQUI VC COLOCA O LINK DA IMAGEM DE CAPA DO FILME</thumbnail>
+		<title>Assalto ao Banco da Espanha</title>
+		<thumbnail>https://www.google.com/search?q=imagens+filme+assalto+ao+banco+da+Espanha&client=ms-android-samsung&source=android-browser&prmd=ivsn&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjJuLfjsf7vAhUGCrkGHf8DBPIQ_AUoAXoECAIQAQ&biw=320&bih=508&dpr=1.5#imgrc=ScvsaHYrQLqSMM&imgdii=_rgFiNh1oKaC4M
+</thumbnail>
 		<fanart>AQUI VC COLOCA O LINK DA IMAGEM DE FUNDO DO FILME</fanart>
-		<link>AQUI VC COLOCA O LINK DO FILME, OU SERIE, ETC</link>
+		<link>AQUIhttps://drive.google.com/file/d/1HaABKvYNKioREhitE3nvoVX50isw-AMr/view </link>
 		<info>AQUI VC COLOCA A DECRIÇÃO DO FILME SE QUISER</info>
 	</item>
   
